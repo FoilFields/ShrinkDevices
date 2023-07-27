@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "shrink_rays:item/personal_return_ray"
+  }
+}

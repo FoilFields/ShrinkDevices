@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "#R#"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:diamond"
+    },
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "X": {
+      "item": "shrink_rays:growth_ray"
+    }
+  },
+  "result": {
+    "item": "shrink_rays:personal_growth_ray"
+  }
+}
