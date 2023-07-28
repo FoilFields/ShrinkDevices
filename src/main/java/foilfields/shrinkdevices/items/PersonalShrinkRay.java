@@ -27,7 +27,7 @@ public class PersonalShrinkRay extends AbstractPersonalRay {
 
     /**
      * Handles the behavior of the shrink ray during each usage tick.
-     * If the player's scale is already very small (<= 0.051f), the idle effect is triggered.
+     * If the player's scale is already very small, the idle effect is triggered.
      * Otherwise, the shrink sound and a custom particle effect are played, and the player's scale is decreased slightly.
      * The player's scale is clamped to a minimum of 0.05f to prevent going too small.
      *
