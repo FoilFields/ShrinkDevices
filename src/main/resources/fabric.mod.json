@@ -23,8 +23,8 @@
     "shrinkdevices.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.14.21",
+    "fabricloader": ">=0.14.24",
     "fabric": "*",
-    "minecraft": "1.20.1"
+    "minecraft": "1.20.2"
   }
 }
